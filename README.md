@@ -1,5 +1,5 @@
 # Design Patterns
 Resumen de algunos patrones de diseño
 
-- [Factory Method](src/.md) 
-- [Builder](part-2-starting-with-the-bricks.md)
+- [Factory Method](src/factory-method/readme.md) 
+- [Builder](src/builder/readme.md)
