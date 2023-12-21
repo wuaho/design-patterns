@@ -7,3 +7,4 @@ Resumen de algunos patrones de diseño
 - [Adapter](src/adapter/readme.md)
 - [Proxy](src/proxy/readme.md)
 - [Iterator](src/iterator/readme.md)
+- [Strategy](src/strategy/readme.md)
