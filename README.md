@@ -4,17 +4,16 @@ Los patrones de diseño son soluciones habituales a problemas que ocurren con fr
 A continuacón, resumo y propongo ejemplos de algunos de los patrones de diseño más utilizados en Typescript.
 
 ## Patrones creacionales
-
-- [Factory Method](src/factory-method/readme.md)
-- [Builder](src/builder/readme.md)
+### [• Factory Method](src/factory-method/readme.md)
+### [• Builder](src/builder/readme.md)
 
 ## Patrones estructurales
 
-- [Adapter](src/adapter/readme.md)
-- [Proxy](src/proxy/readme.md)
+### [• Adapter](src/adapter/readme.md)
+### [• Proxy](src/proxy/readme.md)
 
 ## Patrones de comportamiento
 
-- [Iterator](src/iterator/readme.md)
-- [Strategy](src/strategy/readme.md)
-- [Template Method](src/template-method/readme.md)
+### [• Iterator](src/iterator/readme.md)
+### [• Strategy](src/strategy/readme.md)
+### [• Template Method](src/template-method/readme.md)
